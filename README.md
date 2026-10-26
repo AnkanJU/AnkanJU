@@ -1,35 +1,38 @@
-## Hi there! 👋
+# Hi there, I'm Ankan Roy 👋
 
-I'm **Ankan Roy**, a passionate Software Engineer with a keen interest in Machine Learning and Open Source. Let's build something amazing together!
+**Backend & Systems Engineer** with a focus on high-performance distributed architectures, database engines, and AI infrastructure.
 
-## About Me
+---
 
-I am a Software Engineer with a focus on Machine Learning and a strong advocate for Open Source development. I enjoy collaborating on projects that challenge my skills and help me grow. I am currently based in [Your Location] and excited about the possibilities of technology.
+### 🛠️ Core Tech Stack
 
-## Skills & Technologies
+- **Languages:** Python, C++, SQL, Bash
+- **Backend & APIs:** FastAPI, Asyncio, REST APIs, WebSockets
+- **Databases & Caching:** PostgreSQL, Redis, pgvector, SQLAlchemy, Alembic
+- **DevOps & Testing:** Docker, Docker Compose, Pytest, Git, GitHub Actions, Linux
 
-java,docker,git,github,html,css,js,flask,fastapi,mysql,postgres,react
+---
 
-## Top Projects
+### 🚀 Key Projects & Systems
 
-- [Ankan-Roy-Bio](https://github.com/AnkanJU/Ankan-Roy-Bio): About Me - ⭐️ 0 stars
-- [restaurant_management_project](https://github.com/AnkanJU/restaurant_management_project): A project for managing restaurant operations - ⭐️ 0 stars
+| Project | Tech Stack | Architecture Highlights |
+| :--- | :--- | :--- |
+| **Enterprise Insights RAG** | `Python` `FastAPI` `PostgreSQL` `pgvector` `Redis` | Asynchronous RAG platform with vector similarity search, Redis caching, and rate limiting. |
+| **NexusEngine** | `C++` `DSA` `File I/O` | Lightweight C++ database engine featuring custom hash indexing, BST range queries, and write-ahead logging (WAL). |
+| **NexusStore** | `Python` `PostgreSQL` `Alembic` `Docker` | Production-ready transactional database service with schema migrations and containerized orchestration. |
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkanJU&show_icons=true&theme=radical)  
-Public Repositories: 2 | Followers: 7 | Following: 26
+### 📊 Open Source & Community
 
-## Recent Activity
+- 🐍 Active in Python backend, database tooling, and AI infrastructure ecosystems.
+- ⚙️ Participant in community initiatives like **Hacktoberfest**.
 
-- Forked [restaurant_management_project](https://github.com/perpex-internship/restaurant_management_project) on August 17, 2025.  
-- Watched [langflow-ai/langflow](https://github.com/langflow-ai/langflow) on August 11, 2025.  
-- Watched [AnkanJU/Triangle-by-python](https://github.com/AnkanJU/Triangle-by-python) on August 6, 2025.
+---
 
-## Latest Blog Posts
+### 🌐 Connect with Me
 
-No blog posts available at the moment.
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/ankanju/","generic":"https://leetcode.com/u/AnkanJU/"}
+[![Website](https://img.shields.io/badge/Website-ankanroy.tech-blue?style=flat-square&logo=googlechrome)](https://ankanroy.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankan%20Roy-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankanju/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AnkanJU-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/AnkanJU/)
+[![Email](https://img.shields.io/badge/Email-codeankan%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:codeankan@gmail.com)
